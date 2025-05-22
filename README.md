@@ -28,6 +28,12 @@ Check out the live application: [https://next-js-assignment-fct5.vercel.app/](ht
 - ✅ **Attachment support (video, image, etc.)**
 - ✅ **Semantic HTML tags implementation**
 
+## 🎬 How to Convert Any Documentation into a MCP Server
+
+<div align="center">
+  <iframe width="100%" height="500" src="https://www.youtube.com/embed/kDO2v6WKItA?si=lM6KSnjnyBq1nIKb" title="How to Convert Any Documentation into a MCP Server" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## 🚀 Built with AI-Powered Development
 
 This project was supercharged with cutting-edge AI tools that transformed the development process! 🔮✨
