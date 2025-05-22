@@ -2,6 +2,10 @@
 
 This is a modern messaging application built with Next.js, TypeScript, and Tailwind CSS. It uses Supabase for backend services.
 
+## 🌐 Live Demo
+
+Check out the live application: [https://next-js-assignment-fct5.vercel.app/](https://next-js-assignment-fct5.vercel.app/)
+
 ## Implemented Features
 
 ### Core Requirements ✅
