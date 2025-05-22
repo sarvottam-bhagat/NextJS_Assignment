@@ -184,7 +184,7 @@ const FilterModal: React.FC<FilterModalProps> = ({
                 <Calendar
                   mode="range"
                   selected={filters.dateRange}
-                  onSelect={handleDateChange}
+                  onSelect={(range) => handleDateChange(range ? { from: range.from, to: range.to || undefined } : { from: undefined, to: undefined })}
                   initialFocus
                 />
               </PopoverContent>
@@ -202,3 +202,5 @@ const FilterModal: React.FC<FilterModalProps> = ({
 };
 
 export default FilterModal;
+
+
