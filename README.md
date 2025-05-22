@@ -31,7 +31,10 @@ Check out the live application: [https://next-js-assignment-fct5.vercel.app/](ht
 ## 🎬 How to Convert Any Documentation into a MCP Server
 
 <div align="center">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/kDO2v6WKItA?si=lM6KSnjnyBq1nIKb" title="How to Convert Any Documentation into a MCP Server" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=kDO2v6WKItA" target="_blank">
+    <img src="https://img.youtube.com/vi/kDO2v6WKItA/maxresdefault.jpg" alt="How to Convert Any Documentation into a MCP Server" width="100%" style="max-width: 100%;" />
+  </a>
+  <p><i>👆 Click on the image to watch the video</i></p>
 </div>
 
 ## 🚀 Built with AI-Powered Development
