@@ -99,7 +99,7 @@ const ChatHeader: React.FC<ChatHeaderProps> = ({
             )}
             <LabelSelector
               conversationId={id}
-              currentLabel={label}
+              currentLabel={label || null}
               onLabelChange={onLabelChange}
             />
             <Button variant="ghost" size="icon" className="h-9 w-9 rounded-full">
@@ -125,3 +125,4 @@ const ChatHeader: React.FC<ChatHeaderProps> = ({
 };
 
 export default ChatHeader;
+
