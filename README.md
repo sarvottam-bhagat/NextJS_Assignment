@@ -6,6 +6,15 @@ This is a modern messaging application built with Next.js, TypeScript, and Tailw
 
 Check out the live application: [https://next-js-assignment-fct5.vercel.app/](https://next-js-assignment-fct5.vercel.app/)
 
+## 🎥 Application Demo
+
+<div align="center">
+  <a href="https://youtu.be/t0ZwMczSZ8M?si=bKjot4RJ3S3jkyX_" target="_blank">
+    <img src="https://img.youtube.com/vi/t0ZwMczSZ8M/maxresdefault.jpg" alt="Application Demo" width="100%" style="max-width: 100%;" />
+  </a>
+  <p><i>👆 Click on the image to watch the video</i></p>
+</div>
+
 ## Implemented Features
 
 ### Core Requirements ✅
